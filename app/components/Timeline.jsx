@@ -78,7 +78,6 @@ export default function Timeline() {
           </svg>
         </div>
         <div className="timeline-end timeline-box">?</div>
-        <hr />
       </li>
     </ul>
   );
